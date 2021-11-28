@@ -26,27 +26,27 @@
 
 <img src="https://www.kindpng.com/picc/m/67-678384_transparent-javascript-icon-png-png-download.png" width="16" height="16" /> &nbsp;JavaScript
 
-## ▶️ Inicializando o projeto
+## ▶️ Initializing the project
 
-- ### **Pré-requisitos**
+- ### **Pre-requirements**
 
   - **Node.js**;
-  - **Git**
-  - Gerenciador de pacotes **npm** ou **yarn**
+  - **Git**;
+  - Package manager **npm** or **yarn**;
 
-Em seguida, clone o repositório
+Next, clone the repository:
 
 ```sh
   $ git clone https://github.com/carlosael/to-do-list
 ```
 
-E depois:
+And then:
 
 ```sh
-  # Abra pasta do projeto
+  # Open the project
   $ cd base
-  # Instale as dependencias
-  $ yarn ou npm install
-  # Rode a aplicação
-  $ yarn start ou npm run start
+  # Install the dependencies
+  $ yarn or npm install
+  # Run the aplication
+  $ yarn start or npm run start
 ```
