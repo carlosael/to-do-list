@@ -25,3 +25,28 @@
 <img src="https://www.pinclipart.com/picdir/middle/175-1759459_eng-a-med-kamel-frameworks-css-css-logo.png" width="20" height="18" /> CSS
 
 <img src="https://www.kindpng.com/picc/m/67-678384_transparent-javascript-icon-png-png-download.png" width="16" height="16" /> &nbsp;JavaScript
+
+## ▶️ Inicializando o projeto
+
+- ### **Pré-requisitos**
+
+  - **Node.js**;
+  - **Git**
+  - Gerenciador de pacotes **npm** ou **yarn**
+
+Em seguida, clone o repositório
+
+```sh
+  $ git clone https://github.com/carlosael/to-do-list
+```
+
+E depois:
+
+```sh
+  # Abra pasta do projeto
+  $ cd base
+  # Instale as dependencias
+  $ yarn ou npm install
+  # Rode a aplicação
+  $ yarn start ou npm run start
+```
