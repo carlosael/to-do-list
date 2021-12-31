@@ -52,3 +52,5 @@ And then:
   # Run the aplication
   $ yarn start or npm run start
 ```
+
+<img src="https://i.imgur.com/3h2DZqf.gif" width="1000" height="500" />
