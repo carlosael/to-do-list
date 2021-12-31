@@ -53,4 +53,4 @@ And then:
   $ yarn start or npm run start
 ```
 
-<img src="https://i.imgur.com/3h2DZqf.gif" width="1000" height="500" />
+<img src="https://i.imgur.com/3h2DZqf.gif" width="830" height="500" />
